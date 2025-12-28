@@ -51,6 +51,8 @@ Smart account executes the action
 forge soldeer install
 npm install
 
+# Forgive the mess that is remappings.txt 😭😭😭
+
 # Start local node (with increased code size limit for EntryPoint)
 anvil --code-size-limit 50000
 
