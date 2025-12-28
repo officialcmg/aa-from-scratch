@@ -1,0 +1,11 @@
+{
+  "name": "smart-accounts-scripts",
+  "type": "module",
+  "scripts": {
+    "userOp": "node scripts/userOp.js",
+    "state": "node scripts/state.js"
+  },
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
